@@ -1,0 +1,13 @@
+sample,fastq_1,fastq_2,antibody,control,peak_type
+CrPic_K4_1,/public/home/ezhao/qian_lab/raw_data/MYF/CHIP/CHIP_20231212/raw_clean_data/CrPic-K4-1_R1.fq.gz,/public/home/ezhao/qian_lab/raw_data/MYF/CHIP/CHIP_20231212/raw_clean_data/CrPic-K4-1_R2.fq.gz,K4,CrPic_input_1,narrow
+CrPic_K4_2,/public/home/ezhao/qian_lab/raw_data/MYF/CHIP/CHIP_20231212/raw_clean_data/CrPic-K4-2_R1.fq.gz,/public/home/ezhao/qian_lab/raw_data/MYF/CHIP/CHIP_20231212/raw_clean_data/CrPic-K4-2_R2.fq.gz,K4,CrPic_input_2,narrow
+CrPic_K4_3,/public/home/ezhao/qian_lab/raw_data/MYF/CHIP/CHIP_20231212/raw_clean_data/CrPic-K4-3_R1.fq.gz,/public/home/ezhao/qian_lab/raw_data/MYF/CHIP/CHIP_20231212/raw_clean_data/CrPic-K4-3_R2.fq.gz,K4,CrPic_input_3,narrow
+CrPic_input_1,/public/home/ezhao/qian_lab/raw_data/MYF/CHIP/CHIP_20231212/raw_clean_data/CrPic-input-1_R1.fq.gz,/public/home/ezhao/qian_lab/raw_data/MYF/CHIP/CHIP_20231212/raw_clean_data/CrPic-input-1_R2.fq.gz,,,
+CrPic_input_2,/public/home/ezhao/qian_lab/raw_data/MYF/CHIP/CHIP_20231212/raw_clean_data/CrPic-input-2_R1.fq.gz,/public/home/ezhao/qian_lab/raw_data/MYF/CHIP/CHIP_20231212/raw_clean_data/CrPic-input-2_R2.fq.gz,,,
+CrPic_input_3,/public/home/ezhao/qian_lab/raw_data/MYF/CHIP/CHIP_20231212/raw_clean_data/CrPic-input-3_R1.fq.gz,/public/home/ezhao/qian_lab/raw_data/MYF/CHIP/CHIP_20231212/raw_clean_data/CrPic-input-3_R2.fq.gz,,,
+DMSO_K4_1,/public/home/ezhao/qian_lab/raw_data/MYF/CHIP/CHIP_20231212/raw_clean_data/DMSO-K4-1_R1.fq.gz,/public/home/ezhao/qian_lab/raw_data/MYF/CHIP/CHIP_20231212/raw_clean_data/DMSO-K4-1_R2.fq.gz,K4,DMSO_input_1,narrow
+DMSO_K4_2,/public/home/ezhao/qian_lab/raw_data/MYF/CHIP/CHIP_20231212/raw_clean_data/DMSO-K4-2_R1.fq.gz,/public/home/ezhao/qian_lab/raw_data/MYF/CHIP/CHIP_20231212/raw_clean_data/DMSO-K4-2_R2.fq.gz,K4,DMSO_input_2,narrow
+DMSO_K4_3,/public/home/ezhao/qian_lab/raw_data/MYF/CHIP/CHIP_20231212/raw_clean_data/DMSO-K4-3_R1.fq.gz,/public/home/ezhao/qian_lab/raw_data/MYF/CHIP/CHIP_20231212/raw_clean_data/DMSO-K4-3_R2.fq.gz,K4,DMSO_input_3,narrow
+DMSO_input_1,/public/home/ezhao/qian_lab/raw_data/MYF/CHIP/CHIP_20231212/raw_clean_data/DMSO-input-1_R1.fq.gz,/public/home/ezhao/qian_lab/raw_data/MYF/CHIP/CHIP_20231212/raw_clean_data/DMSO-input-1_R2.fq.gz,,,
+DMSO_input_2,/public/home/ezhao/qian_lab/raw_data/MYF/CHIP/CHIP_20231212/raw_clean_data/DMSO-input-2_R1.fq.gz,/public/home/ezhao/qian_lab/raw_data/MYF/CHIP/CHIP_20231212/raw_clean_data/DMSO-input-2_R2.fq.gz,,,
+DMSO_input_3,/public/home/ezhao/qian_lab/raw_data/MYF/CHIP/CHIP_20231212/raw_clean_data/DMSO-input-3_R1.fq.gz,/public/home/ezhao/qian_lab/raw_data/MYF/CHIP/CHIP_20231212/raw_clean_data/DMSO-input-3_R2.fq.gz,,,

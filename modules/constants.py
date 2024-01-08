@@ -1,0 +1,23 @@
+"""
+CHIPipeLine (c) 2023
+
+Author: Jeason Zhao, Qian Lab, NJMU
+
+This deals with all constants
+"""
+
+TASK_ALL = 0
+TASK_RAW_QC = 1
+TASK_TRIMMED = 2
+TASK_TRIMMED_QC = 3
+TASK_BUILD_INDEX = 4
+TASK_ALIGN = 5
+TASK_MARKDUP = 6
+TASK_FILTER = 7
+TASK_QC = 8
+TASK_BAM2BIGWIG = 9
+TASK_DEEPTOOLS_QC = 10
+TASK_CALL_PEAK = 11
+TASK_PEAK_ANNO = 12
+
+
